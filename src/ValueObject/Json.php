@@ -24,7 +24,7 @@ class Json
     public static function create($value)
     {
 
-        return new Json($value);
+        return new static($value);
     }
 
     /**
