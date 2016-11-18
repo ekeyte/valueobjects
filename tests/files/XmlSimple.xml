@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<House>
+    <Doors>9</Doors>
+    <Bedrooms>3</Bedrooms>
+    <Windows>25</Windows>
+    <Roof>yes</Roof>
+    <Garage>yes</Garage>
+    <Occupants>
+        <Occupant owner="yes">Jerry</Occupant>
+        <Occupant>Steve</Occupant>
+        <Occupant>Shirley</Occupant>
+    </Occupants>
+    <Animals>
+        <Animal>Cat</Animal>
+        <Animal>Dog</Animal>
+        <Animal>Fish</Animal>
+    </Animals>
+</House>
